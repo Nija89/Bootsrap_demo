@@ -4,7 +4,7 @@ This is a simple demo website built using Bootstrap.
 
 ## Live Demo
 
-You can access the live demo at [here](<https://nija89.github.io/bootsrap_demo/>).
+You can access the live demo at [here](<https://nija89.github.io/Bootsrap_demo/>).
 
 ## How to Use
 
